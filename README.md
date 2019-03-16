@@ -55,6 +55,6 @@ public class First_Activity extends AppCompatActivity {
 ```
 ## 运行截图
 1.进入软件![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316213135859.png)<br>
-2.home键退出![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316213719164.png)
-3.再次进入软件![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316213753581.png)
+2.home键退出![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316213719164.png)<br>
+3.再次进入软件![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316213753581.png)<br>
 4.关闭软件![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316213818325.png)
