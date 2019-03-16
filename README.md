@@ -58,3 +58,4 @@ public class First_Activity extends AppCompatActivity {
 ![2.home键退出](https://img-blog.csdnimg.cn/20190316213719164.png)
 ![3.再次进入软件](https://img-blog.csdnimg.cn/20190316213753581.png)
 ![4.关闭软件](https://img-blog.csdnimg.cn/20190316213818325.png)
+带尺寸的图片: ![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg =30x30)
