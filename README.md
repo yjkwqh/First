@@ -5,7 +5,7 @@
 验证Activity的生命周期
 
 ## 核心代码
-
+'''
 public class First_Activity extends AppCompatActivity {
 
     public static final String TAG="MainActivity";
@@ -52,7 +52,7 @@ public class First_Activity extends AppCompatActivity {
         Log.d(TAG,"OnDestroy");
     }
 }
-
+'''
 ## 运行截图
 1.进入软件![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316213135859.png)
 2.home键退出![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316213719164.png)
